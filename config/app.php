@@ -185,6 +185,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Kartikey\AdminCrm\AdmincrmServiceProvider::class,
 
         /*
          * Application Service Providers...
